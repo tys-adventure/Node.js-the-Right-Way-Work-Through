@@ -1,6 +1,6 @@
 const
   fs = require('fs'),
-  filename = process.arvg;
+  filename = process.argv;
 if (!filename) {
   throw Error("A file to watch must be specified!");
 }
