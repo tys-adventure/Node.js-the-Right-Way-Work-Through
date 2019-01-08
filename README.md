@@ -1,7 +1,7 @@
 
 # Node.js the Right Way Work Through
 
-One Paragraph of project description goes here
+A work through of the book Node.js the Right Way
 
 ## Getting Started
 
