@@ -2,7 +2,7 @@
 const
   fs = require('fs'),
   spawn = require('child_process').spawn,
-  filename = process.arvg;
+  filename = process.argv;
 
 if (!filename) {
   throw Error("A file to watch must be specified");
