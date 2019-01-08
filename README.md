@@ -7,6 +7,11 @@ A work through of the book Node.js the Right Way
 
 ### Prerequisites/Installing
 
+Install Homebrew
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
 Install Node NPM
 
 ```
