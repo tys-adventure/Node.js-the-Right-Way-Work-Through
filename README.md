@@ -55,6 +55,11 @@ Running write-simple.js
 $ node --harmony write-simple.js
 ```
 
+Running read-stream.js
+```
+$ node --harmony read-stream.js target.txt
+```
+
 ## Acknowledgments
 
 * Working examples from the book Node.js the Right Way
