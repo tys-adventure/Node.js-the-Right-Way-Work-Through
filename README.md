@@ -27,7 +27,7 @@ $ touch target.txt
 
 ## Running the scripts
 
-Running the scripts for each chapter are included in each chapter file!
+A README file is included in each of the chapter files, pretaining specifically to that chapter.
 
 ## Acknowledgments
 
