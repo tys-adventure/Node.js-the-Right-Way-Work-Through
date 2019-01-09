@@ -27,40 +27,7 @@ $ touch target.txt
 
 ## Running the scripts
 
-Running watcher.js
-```
-$ node --harmony watcher.js
-```
-
-Running watcher-argv.js
-```
-$ node --harmony watcher-argv.js target.txt
-```
-
-Running watcher-spawn.js
-```
-$ node --harmony watcher-spawn.js target.txt
-```
-
-Running watcher-spawn-parse.js
-```
-$ node --harmony watcher-spawn-parse.js target.txt
-```
-
-Running read-simple.js
-```
-$ node --harmony read-simple.js
-```
-
-Running write-simple.js
-```
-$ node --harmony write-simple.js
-```
-
-Running read-stream.js
-```
-$ node --harmony read-stream.js target.txt
-```
+Running the scripts for each chapter are included in each chapter file!
 
 ## Acknowledgments
 
