@@ -18,6 +18,8 @@ Install Node NPM
 $ brew install node
 ```
 
+Make sure your target.txt file and your scripts are located in the same directory!
+
 ### Create a target.txt file within an empty directory
 ```
 $ touch target.txt
